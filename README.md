@@ -1,10 +1,5 @@
 # 🌱 CropWatch - AI-Powered Crop Disease Detection
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Development-yellow" alt="Status: Development">
-  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License: MIT">
-  <img src="https://img.shields.io/badge/Version-1.0.0-green" alt="Version: 1.0.0">
-</div>
 
 ## 🚀 Overview
 
@@ -32,22 +27,19 @@
 - **Framework**: React.js with TypeScript
 - **UI Library**: Material-UI (MUI)
 - **State Management**: Redux Toolkit
-- **AI/ML**: TensorFlow.js
+- **AI/ML**: TensorFlow.js, Gemini Model
 - **Build Tool**: Vite
 
 ### Backend
 - **Runtime**: Node.js with Express.js
 - **Language**: TypeScript
-- **Authentication**: JWT
-- **Database**: MongoDB
-- **Cloud Storage**: AWS S3
-
+- **Database**: Supabase
+  
 ## 🚀 Getting Started
 
 ### Prerequisites
 - Node.js (v16+)
 - npm or yarn
-- MongoDB Atlas account (for cloud database)
 
 ### Installation
 
@@ -90,26 +82,8 @@
 
 CropWatch is fully responsive and works seamlessly across all device sizes, from mobile phones to desktop computers.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) to get started.
-
-## 📧 Contact
-
-For any queries or support, please contact [your-email@example.com](mailto:your-email@example.com)
-
-## 🙏 Acknowledgments
-
-- [TensorFlow.js](https://www.tensorflow.org/js) for making ML accessible in the browser
-- [Material-UI](https://mui.com/) for the beautiful UI components
-- All the amazing open-source projects that made this possible
-
 ---
 
 <div align="center">
-  Made with ❤️ by Team CropWatch
+  Made with ❤️ by Team Nexus
 </div>
